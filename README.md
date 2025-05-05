@@ -2,6 +2,6 @@
 
 Magist Not A Strategic Fit for Eniac’s Brazilian Market Entry- our conclusion
 
-Collaborative project executed by Krishna Pantakani, Sutanni Sarkar, and Marc Vollmer utilizing SQL and Tableau/
+Collaborative project executed by Krishna Pantakani, Sutanni Sarkar, and Marc Vollmer utilizing SQL and Tableau
 
 For further information, please contact - sutanni93@gmail.com.
